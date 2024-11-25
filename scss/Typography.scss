@@ -1,0 +1,84 @@
+/* 
+VMS Plus Design System - Foundation - Typography
+Version 1.0
+Date 2024-11-11
+*/
+
+/* IBM Plex Sans Thai */
+$ibm-font-family: $type-font-family-ibm;
+
+/* Display */
+$ibm-display-01-letter-spacing: $type-letter-spacing-normal;
+$ibm-display-01-line-height: $type-line-height-150;
+$ibm-display-01-font-size: $type-font-scale-2100;
+$ibm-display-01-font-weight: $type-font-weight-regular;
+$ibm-display-02-letter-spacing: $type-letter-spacing-normal;
+$ibm-display-02-line-height: $type-line-height-150;
+$ibm-display-02-font-size: $type-font-scale-2100;
+$ibm-display-02-font-weight: $type-font-weight-semibold;
+
+/* Headline */
+$ibm-headline-01-letter-spacing: $type-letter-spacing-normal;
+$ibm-headline-01-line-height: $type-line-height-150;
+$ibm-headline-01-font-size: $type-font-scale-1200;
+$ibm-headline-01-font-weight: $type-font-weight-bold;
+$ibm-headline-02-letter-spacing: $type-letter-spacing-normal;
+$ibm-headline-02-line-height: $type-line-height-150;
+$ibm-headline-02-font-size: $type-font-scale-1200;
+$ibm-headline-02-font-weight: $type-font-weight-semibold;
+$ibm-headline-03-letter-spacing: $type-letter-spacing-normal;
+$ibm-headline-03-line-height: $type-line-height-150;
+$ibm-headline-03-font-size: $typescale-font-size-headline-03;
+$ibm-headline-03-font-weight: $type-font-weight-semibold;
+$ibm-headline-04-letter-spacing: $type-letter-spacing-normal;
+$ibm-headline-04-line-height: $type-line-height-150;
+$ibm-headline-04-font-size: $typescale-font-size-headline-04;
+$ibm-headline-04-font-weight: $type-font-weight-semibold;
+
+/* Title */
+$ibm-title-01-letter-spacing: $type-letter-spacing-normal;
+$ibm-title-01-line-height: $type-line-height-150;
+$ibm-title-01-font-size: $typescale-font-size-title-01;
+$ibm-title-01-font-weight: $type-font-weight-semibold;
+$ibm-title-02-letter-spacing: $type-letter-spacing-normal;
+$ibm-title-02-line-height: $type-line-height-150;
+$ibm-title-02-font-size: $type-font-scale-400;
+$ibm-title-02-font-weight: $type-font-weight-semibold;
+
+/* Body */
+$ibm-body-01-letter-spacing: $type-letter-spacing-normal;
+$ibm-body-01-line-height: $type-line-height-150;
+$ibm-body-01-font-size: $type-font-scale-500;
+$ibm-body-01-font-weight: $type-font-weight-regular;
+$ibm-body-02-letter-spacing: $type-letter-spacing-normal;
+$ibm-body-02-line-height: $type-line-height-150;
+$ibm-body-02-font-size: $type-font-scale-400;
+$ibm-body-02-font-weight: $type-font-weight-regular;
+
+/* Label */
+$ibm-label-01-letter-spacing: $type-letter-spacing-dense;
+$ibm-label-01-line-height: $type-line-height-150;
+$ibm-label-01-font-size: $type-font-scale-450;
+$ibm-label-01-font-weight: $type-font-weight-semibold;
+$ibm-label-02-letter-spacing: $type-letter-spacing-dense;
+$ibm-label-02-line-height: $type-line-height-150;
+$ibm-label-02-font-size: $type-font-scale-400;
+$ibm-label-02-font-weight: $type-font-weight-semibold;
+$ibm-label-03-letter-spacing: $type-letter-spacing-dense;
+$ibm-label-03-line-height: $type-line-height-150;
+$ibm-label-03-font-size: $type-font-scale-350;
+$ibm-label-03-font-weight: $type-font-weight-semibold;
+$ibm-label-04-letter-spacing: $type-letter-spacing-dense;
+$ibm-label-04-line-height: $type-line-height-150;
+$ibm-label-04-font-size: $type-font-scale-300;
+$ibm-label-04-font-weight: $type-font-weight-semibold;
+
+/* Helper-text */
+$ibm-helper-text-01-letter-spacing: $type-letter-spacing-dense;
+$ibm-helper-text-01-line-height: $type-line-height-150;
+$ibm-helper-text-01-font-size: $type-font-scale-350;
+$ibm-helper-text-01-font-weight: $type-font-weight-regular;
+$ibm-helper-text-02-letter-spacing: $type-letter-spacing-dense;
+$ibm-helper-text-02-line-height: $type-line-height-150;
+$ibm-helper-text-02-font-size: $type-font-scale-300;
+$ibm-helper-text-02-font-weight: $type-font-weight-regular;
